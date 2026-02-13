@@ -1,0 +1,10 @@
+Hello! I'm GitHub Copilot. I'm here to help you with programming and code tasks.
+
+Since you're starting a new file, I can help you create content. Are you looking to write:
+
+- A Python script?
+- A configuration file?
+- Documentation?
+- Something else?
+
+Please let me know what you'd like to build, and I'll generate the code for you!
